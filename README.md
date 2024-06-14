@@ -32,7 +32,8 @@ Você pode conferir os projetos e minhas anotações de cada conteúdo nos diret
 
 <table align="center">
   <tr>
-    <td>Nível 1</td>
+    <td><a href="https://github.com/luancandido/rocketseat-explorer/tree/main/n%C3%ADvel-00"></a>Nível 0</td>
+    <td><a href="https://github.com/luancandido/rocketseat-explorer/tree/main/n%C3%ADvel-01"></a>Nível 1</td>
     <td>Nível 2</td>
     <td>Nível 3</td>
     <td>Nível 4</td>
