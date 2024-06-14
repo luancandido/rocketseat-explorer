@@ -32,15 +32,17 @@ Você pode conferir os projetos e minhas anotações de cada conteúdo nos diret
 
 <table align="center">
   <tr>
-    <td><a href="https://github.com/luancandido/rocketseat-explorer/tree/main/n%C3%ADvel-00"></a>Nível 0</td>
-    <td><a href="https://github.com/luancandido/rocketseat-explorer/tree/main/n%C3%ADvel-01"></a>Nível 1</td>
+    <td><a href="https://github.com/luancandido/rocketseat-explorer/tree/main/n%C3%ADvel-00">Nível 0</td>
+    <td><a href="https://github.com/luancandido/rocketseat-explorer/tree/main/n%C3%ADvel-01">Nível 1</td>
     <td>Nível 2</td>
-    <td>Nível 3</td>
-    <td>Nível 4</td>
   </tr>
   <tr>
-    <td>Nível 5</a></td>
-    <td>Nível 6</a></td>
+    <td>Nível 3</td>
+    <td>Nível 4</td>
+    <td>Nível 5</td>
+  </tr>
+  <tr>
+    <td>Nível 6</td>
     <td>Nível 7</td>
     <td>Nível 8</td>
   </tr>
@@ -48,12 +50,11 @@ Você pode conferir os projetos e minhas anotações de cada conteúdo nos diret
     <td>Nível 9</td>
     <td>Nível 10</td>
     <td>Nível 11</td>
-    <td></td>
-  </tr>
+  </td>
 </table>
 <br>
 
-> Se notar algum erro ou tiver alguma sugestão para mim, sinta-se à vontade para me chamar no [LinkedIn](https://www.linkedin.com/in/luan-candido-dev/)! 😉
+> Se notar algum erro ou tiver alguma sugestão para mim, sinta-se à vontade para me chamar no [LinkedIn](https://www.linkedin.com/in/luan-candido-dev/)! 
 
 ---
 
