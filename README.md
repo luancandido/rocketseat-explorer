@@ -9,8 +9,6 @@ O programa [Explorer](https://rocketseat.com.br/explorer) da [Rocketseat](https:
 Por meio dele estou na jornada para me tornar um desenvolvedor web. 🤓 <br>
 Neste repositório estou documentando minha trajetória no programa, deixando anotações do meu aprendizado e principalmente os projetos que venho desenvolvendo ao longo dele. 
 
-Não deixe de deixar uma estrelinha pro amigo aqui. 😁🌟
-
 ## Tecnologias estudadas
 
 <div>
@@ -54,11 +52,11 @@ Você pode conferir os projetos e minhas anotações de cada conteúdo nos diret
 </table>
 <br>
 
-> Se ver algum bug ou tiver uma dica pra mim, pode me chamar no [LinkedIn](https://www.linkedin.com/in/luan-candido-dev/)! 😉
+> Se notar algum erro ou tiver alguma sugestão para mim, sinta-se à vontade para me chamar no [LinkedIn](https://www.linkedin.com/in/luan-candido-dev/)! 😉
 
 ---
 
-<table>
+<table align="center">
   <tr>
     <td>
       <img src="https://github.com/luancandido.png" width="100px" />
@@ -67,7 +65,7 @@ Você pode conferir os projetos e minhas anotações de cada conteúdo nos diret
       <img src="https://github.com/rocketseat-education.png" width="100px" />
     </td>
     <td>
-      Feito por <a href="https://github.com/luancandido">Lucyan Ovídio</a> 🙋🏿‍♂️
+      Feito por <a href="https://github.com/luancandido">Luan Candido</a>.
       <br> Junto com <a href="https://rocketseat.com.br">Rocketseat</a> 🚀.
     </td>
   </tr>
